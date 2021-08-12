@@ -1,0 +1,82 @@
+#contact iframe
+{
+    width: 100%;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+ 
+input
+{
+    background: grey
+}
+.about_us_main
+{
+    border: 1px solid #c7c7c7;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none
+}
+
+.about_us_main img
+{
+  width: 100%;
+}
+
+.about_us_main hr
+{
+    width: 230px; 
+}
+
+.about_us_main h5 , .about_us_main p
+{
+margin-left: 20px;
+}
+
+
+.Campus_Life_head
+{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.Campus_Life_head i
+{
+float: right;
+}
+
+.Campus_Life_text span
+{
+color: #ff7700;
+}
+
+.Achievements_li
+{
+  margin-top: 13px;
+}
+
+.Achievements_li h4
+{
+    border-bottom: 1px solid white;
+    padding: 8px;
+}
+
+.Achievements_li img
+{
+  border-radius: 25px;
+}
+
+.Achievements_li p
+{
+  margin-top:10px;
+}
+
